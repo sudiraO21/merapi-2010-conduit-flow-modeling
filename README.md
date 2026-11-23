@@ -1,6 +1,6 @@
 # Physics-Based Modeling & Monte Carlo Uncertainty Analysis of the 2010 Mount Merapi Rapid Lava Dome Extrusion
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24465743.svg)](https://doi.org/10.5281/zenodo.24465743)
 
 ## Overview
 This repository contains the fully reproducible Python Jupyter Notebook, technical report, and presentation deck for a continuum mechanics and probabilistic study of the 1–4 November 2010 rapid lava dome extrusion at Mount Merapi, Indonesia.
