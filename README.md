@@ -18,5 +18,4 @@ jupyter notebook Merapi_2010_Conduit_Flow_MonteCarlo.ipynb
 
 ## Citation
 If you use this code or report, please cite the Zenodo archive:
-
-`Oktafiandariento, T. S. (2026). Physics-Based Modeling & Monte Carlo Uncertainty Analysis of the 2010 Mount Merapi Rapid Lava Dome Extrusion (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX`
+> Oktafiandariento, T. S. (2026). *Physics-Based Modeling & Monte Carlo Uncertainty Analysis of the 2010 Mount Merapi Rapid Lava Dome Extrusion* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19201465
