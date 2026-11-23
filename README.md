@@ -14,6 +14,7 @@ This repository contains the fully reproducible Python Jupyter Notebook, technic
 ```bash
 pip install numpy scipy matplotlib pandas
 jupyter notebook Merapi_2010_Conduit_Flow_MonteCarlo.ipynb
+```
 
 ## Citation
 If you use this code or report, please cite the Zenodo archive:
